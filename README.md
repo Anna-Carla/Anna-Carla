@@ -23,3 +23,5 @@ Sou apaixonada por tecnologia e estou sempre em busca de novos desafios para exp
   <img align="center" alt="Anna-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Anna-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
+
+<!--![brandBlack](https://github.com/user-attachments/assets/43828946-7f1b-4600-b847-7ee93501f2c8)>
