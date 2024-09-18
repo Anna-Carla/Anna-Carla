@@ -5,7 +5,7 @@ Sou apaixonada por tecnologia e estou sempre em busca de novos desafios para exp
 ## Sobre mim
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas na PUC MINAS.
-- 💻 Trabalho como estagiaria em desenvolvimento de sistemas.
+- 💻 Trabalho como Desenvolvedora de Sistemas I.
 - 🌱 Atualmente aprendendo mais sobre JavaScript, TypeScript e React.
 
 ## Estatísticas do GitHub
