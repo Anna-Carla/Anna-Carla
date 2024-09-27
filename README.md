@@ -8,10 +8,6 @@ Sou apaixonada por tecnologia e estou sempre em busca de novos desafios para exp
 - 💻 Trabalho como Desenvolvedora de Sistemas I.
 - 🌱 Atualmente aprendendo mais sobre JavaScript, TypeScript e React.
 
-## Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Anna-Carla&show_icons=true&hide_border=false&theme=tokyonight&hide_title=true)
-
 ## Linguagens e Ferramentas
 
 <div style="display: inline_block"><br>
