@@ -6,11 +6,11 @@ Sou apaixonada por tecnologia e estou sempre em busca de novos desafios para exp
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas na PUC MINAS.
 - 💻 Trabalho como Desenvolvedora de Sistemas I.
-- 🌱 Atualmente aprendendo mais sobre JavaScript, TypeScript e React.
+- 🌱 Atualmente aprendendo mais sobre JavaScript, TypeScript e React, Node.js.
 
-## Estatísticas do GitHub
+<!--## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=anna-carla&show_icons=true&hide_border=false&theme=tokyonight&hide_title=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=anna-carla&show_icons=true&hide_border=false&theme=tokyonight&hide_title=true)-->
 
 ## Linguagens e Ferramentas
 
