@@ -2,8 +2,6 @@
 
 Sou apaixonada por tecnologia e estou sempre em busca de novos desafios para expandir meus conhecimentos. Meu foco principal é em desenvolvimento web, especialmente em front-end.
 
-https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-2-p7-proj-tidai-t1-daumhelp
-
 ## Sobre mim
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas na PUC MINAS.
@@ -27,4 +25,3 @@ https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-2-p7-proj-tidai-t1-dau
 </div>
 
 <!--![brandBlack](https://github.com/user-attachments/assets/43828946-7f1b-4600-b847-7ee93501f2c8)>
-
